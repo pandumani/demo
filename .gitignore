@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 /target/
+=======
+>>>>>>> branch 'master' of https://github.com/pandumani/demo.git
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
